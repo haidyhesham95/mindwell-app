@@ -1,0 +1,124 @@
+{
+  "EN": "EN",
+  "Home": "Home",
+  "Discover": "Discover",
+  "Posts": "Posts",
+  "Chatbot": "Chatbot",
+  "Profile": "Profile",
+
+  "My Notes": "My Notes",
+  "Chat With Doctor": "Chat With Doctor",
+"Reminder": "Reminder",
+  "About Us": "About Us",
+  "Questions": "Questions",
+  "Language": "Language",
+  "Change Language": "Change Language",
+  "Logout": "Logout",
+  "Are you sure you want to logout?": "Are you sure you want to logout?",
+  "Yes": "Logout",
+  "Cancel": "Cancel",
+
+
+  "Answer these questions so we can help you": "Answer these questions so we can help you",
+  "Enter your answer": "Enter your answer",
+    "Submit": "Submit",
+  "No Answer yet, please answer this question": "No Answer yet, please answer this question",
+  "q1": "Do you prefer to solve your complex problems and confront them or run away from them?",
+  "q2": "What do you think about helping others in your life, and do you like providing help to others?",
+  "q3": "How much time do you need to calm down during anger?",
+  "q4": "Are you someone who gets disappointed easily and quickly?",
+  "q5": "Do you like having a lot of people around you or not?",
+  "q6": "Do you tend to be lonely a lot?",
+
+
+    "Find Doctor": "Find Doctor",
+    "Show Doctor details": "Start Chat",
+    "Chat": "Chat",
+
+
+  "There's nothing in here": "There's nothing in here",
+  "Title": "Title",
+  "Content": "Content",
+    "Add": "Add",
+  "Edit Note": "Edit Note",
+  "Edit": "Edit",
+
+
+  "Send Message": "Send Message",
+
+  "Articles": "Articles",
+
+  "Discover the most common diseases": "Discover the most common diseases",
+  "Search for diseases": "Search for diseases",
+  "Illness Description": "Illness Description",
+  "About": "About",
+  "Reasons": "Reasons",
+    "Symptoms": "Symptoms",
+    "Treatment": "Treatment",
+  "When to see a doctor": "When to see a doctor",
+
+
+  "Name : ": "Name : ",
+  "Author : ": "Author : ",
+  "Description : ": "Description : ",
+  "Download": "Download",
+
+
+  "Conversations": "Conversations",
+  "Edit Profile": "Edit Profile",
+  "Edit Name: ": "Edit Name: ",
+  "Edit your name": "Edit your name",
+  "Personality Analysis": "Personality Analysis",
+  "Gallery": "Gallery",
+
+
+
+
+  "Welcome Back": "Welcome Back",
+  "Please insert an email": "Please insert an email",
+  "Enter Your Email": "Enter Your Email",
+    "Please insert a password": "Please insert a password",
+"Enter Your Password": "Enter Your Password",
+  "Sign In": "Sign In",
+    "Dont have an account?": "Don't have an account?",
+    "Sign Up": "Sign Up",
+  "No Internet Connection": "No Internet Connection",
+    "Please check your internet connection": "Please check your internet connection",
+"Welcome": "Welcome",
+  "We are glad you will join us ": "We are glad you will join us ",
+    "Please insert your name": "Please insert your name",
+    "Enter Your Name": "Enter Your Name",
+  "Please insert your phone": "Please insert your phone",
+    "Enter Your Phone": "Enter Your Phone",
+  "patient": "patient",
+    "doctor": "doctor",
+
+
+
+  "Feed": "Feed",
+  "Add Post": "Add Post",
+  "My Posts": "My Posts",
+  "Add Article": "Add Article",
+
+  "Edit your specialty": "Edit your specialty",
+  "Edit your bio": "Edit your bio",
+  "Add Bio": "Add Bio",
+  "add bio": "add bio",
+  "Add Specialty": "Add Specialty",
+  "add specialty": "add specialty",
+
+
+
+
+
+  "Add Name": "Add Name",
+  "Add Description": "Add Description",
+  "Please add Name": "Please add Name",
+  "Please add Description": "Please add Description",
+  "Start Chat":"Start Chat"
+
+
+
+
+
+}

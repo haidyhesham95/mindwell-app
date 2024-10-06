@@ -1,0 +1,115 @@
+{
+"EN": "ar",
+  "Home": "الرئسيه",
+  "Discover": "اكتشف",
+"Posts": "المنشورات",
+"Chatbot": "المحادثة",
+"Profile": "الملف الشخصي",
+
+  "My Notes": "ملاحظاتي",
+  "Chat With Doctor": "المحادثه مع الطبيب",
+  "Reminder": "التذكير",
+  "About Us": "من نحن",
+  "Questions": "الاسئله",
+  "Language": "اللغه",
+  "Change Language": "تغير اللغه",
+  "Logout": "تسجيل الخروج",
+  "Are you sure you want to logout?": "هل انت متاكد من تسجيل الخروج؟",
+  "Yes": "خروج",
+  "Cancel": "الغاء",
+
+
+  "Answer these questions so we can help you": "اجب على هذه الاسئله حتى نستطيع مساعدتك",
+  "Enter your answer": "ادخل اجابتك",
+  "Submit": "ارسال",
+  "No Answer yet, please answer this question": "لا يوجد اجابه بعد, من فضلك اجب على هذا السؤال",
+  "q1" : "هل تفضل حل المشاكل الكبيره ومواجهتها ام الهروب منها؟",
+  "q2": "ما رايك في مساعدة الاخرين في حياتك وهل تحب تقديم المساعده للاخرين؟",
+  "q3": "كم تحتاج من الوقت لتهدئة نفسك اثناء الغضب؟",
+  "q4": "هل انت شخص يحبط بسرعه وسهوله؟",
+  "q5": "هل تحب وجود الكثير من الناس حولك ام لا؟",
+  "q6": "هل تميل الى الوحده كثيرا؟",
+
+
+  "Find Doctor": "ابحث عن طبيب",
+  "Show Doctor details": "ابدا المحادثة",
+  "Chat": "محادثه",
+
+
+  "There's nothing in here": "لا يوجد شيء هنا",
+  "Title": "العنوان",
+  "Content": "المحتوى",
+  "Add": "اضافة ",
+  "Edit Note": "تعديل الملاحظة",
+  "Edit": "تعديل",
+
+
+  "Send Message": "ارسال رساله",
+"Articles": "المقالات",
+
+  "Discover the most common diseases": "اكتشف عن اكثر الامراض شيوعا",
+  "Search for diseases": "ابحث عن الامراض",
+  "Illness Description": "وصف المرض",
+  "About": "عن",
+  "Reasons": "الاسباب",
+    "Symptoms": "الاعراض",
+    "Treatment": "العلاج",
+  "When to see a doctor": "متى تراجع الطبيب",
+
+
+
+"Name : ": "الاسم : ",
+"Author : ": "المؤلف : ",
+  "Description : ": "الوصف : ",
+  "Download": "تحميل",
+
+  "Conversations": "المحادثات",
+  "Edit Profile": "تعديل الملف الشخصي",
+  "Edit Name: ": "تعديل الاسم: ",
+  "Edit your name": "تعديل الاسم",
+  "Personality Analysis": "تحليل الشخصيه",
+  "Gallery": "المعرض",
+
+
+
+
+
+  "Welcome Back": "مرحبا بعودتك",
+  "Please insert an email": "الرجاء ادخال البريد الالكتروني",
+  "Enter Your Email": "ادخل البريد الالكتروني",
+  "Please insert a password": "الرجاء ادخال كلمة المرور",
+  "Enter Your Password": "ادخل كلمة المرور",
+  "Sign In": "تسجيل الدخول",
+  "Dont have an account?": "ليس لديك حساب؟",
+  "Sign Up": "تسجيل جديد",
+  "No Internet Connection": "لا يوجد اتصال بالانترنت",
+  "Please check your internet connection": "الرجاء التحقق من اتصالك بالانترنت",
+  "Welcome": "مرحبا",
+  "We are glad you will join us ": "نحن سعداء بانضمامك لنا",
+  "Please insert your name": "الرجاء ادخال اسمك",
+  "Enter Your Name": "ادخل اسمك",
+  "Please insert your phone": "الرجاء ادخال رقم الهاتف",
+  "Enter Your Phone": "ادخل رقم الهاتف",
+  "patient": "مريض",
+  "doctor": "طبيب",
+
+
+  "Feed": "المنشورات",
+  "Add Post": "اضافة منشور",
+  "Add Article": "اضافة مقال",
+
+  "My Posts": "منشوراتي",
+  "Edit your specialty": "تعديل التخصص",
+    "Edit your bio": "تعديل السيرة الذاتية",
+  "Add Bio": "اضافة سيرة ذاتية",
+  "add bio": "اضافة سيرة ذاتية",
+  "Add Specialty": "اضافة تخصص",
+  "add specialty": "اضافة تخصص",
+
+  "Add Name": "اضافة الاسم",
+  "Add Description": "اضافة الوصف",
+  "Please add Name": "الرجاء اضافة الاسم",
+"Please add Description": "الرجاء اضافة الوصف",
+  "Start Chat":  "ابدا محادثة"
+
+}
