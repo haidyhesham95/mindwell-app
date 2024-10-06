@@ -86,7 +86,7 @@ abstract class MainFunctions {
 
   static Future<void> onStart(ServiceInstance service) async {
     DartPluginRegistrant.ensureInitialized();
-    Timer.periodic(const Duration(seconds: 15,), (timer) async {
+    Timer.periodic(const Duration(hours: 8,), (timer) async {
       showSimpleNotification();
     });
   }
